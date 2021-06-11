@@ -1,0 +1,54 @@
+body{
+    font-family: Arvo, serif;
+    background: url("image.png") no-repeat center center;
+    background-attachment: fixed;
+    background-size: cover;
+    letter-spacing: 1px;
+}
+.heading{
+    font-family: 'RocknRoll One', sans-serif;
+    text-align: center;
+    color:dodgerblue;
+    
+}
+.btnx{
+    position: absolute;
+    font-size: 20px;
+    top:8px;
+    right:25px;
+}
+.btnx:hover{
+    font-size: 25px;
+    text-decoration: none;
+}
+.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
+    color:#231876
+  }
+.profilecontainer {
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+.container-fluid {
+    margin-top: 50px;
+}
+#myModalLabel {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.heading2 {
+    color: #33343c;
+    justify-content: left;
+}
+.btnx2{
+    position: absolute;
+    font-size: 35px;
+    top:8px;
+    right:25px;
+}
+.btnx2:hover{
+    font-size: 50px;
+    text-decoration: none;
+} 
+  
